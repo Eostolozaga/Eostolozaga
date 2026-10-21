@@ -67,7 +67,7 @@ Busco roles **junior de Data Analyst, Data Scientist o Business Analyst** donde 
 
 ## 🚀 Proyectos destacados
 
-<p align="center"
+<p align="center">
   <a href="https://github.com/Eostolozaga/openingchessai"><img src="https://raw.githubusercontent.com/Eostolozaga/openingchessai/main/docs/capturas.png" alt="OpeningChessAI" width="100%"/></a>
 </p>
 <p align="center">
