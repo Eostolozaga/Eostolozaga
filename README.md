@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2a44,100:14b8a6&height=190&section=header&text=Eneko%20Ostolozaga&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Data%20Analyst%20Jr.%20%C2%B7%20Business%20Analyst%20%C2%B7%20Data%20Science%20%C2%B7%20GenAI&descSize=18&descAlignY=58" alt="Eneko Ostolozaga — Data Analyst Jr. · Business Analyst" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2a44,100:14b8a6&height=160&section=header&text=Eneko%20Ostolozaga&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20Jr.%20%C2%B7%20Business%20Analyst%20%C2%B7%20Data%20Science&descSize=14&descAlignY=60" alt="Eneko Ostolozaga — Data Analyst Jr. · Business Analyst" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=14B8A6&center=true&vCenter=true&width=640&lines=Del+dato+a+la+decisi%C3%B3n+de+negocio;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning;Sistemas+de+recomendaci%C3%B3n+%2B+LLM+local+(Ollama);%E2%99%9F%EF%B8%8F+Monitor+Nacional+de+Ajedrez+(FEDA)" alt="Del dato a la decisión de negocio"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=14B8A6&center=true&vCenter=true&width=380&lines=Del+dato+a+la+decisi%C3%B3n+de+negocio;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+ML;Recomendaci%C3%B3n+%2B+LLM+local+(Ollama);%E2%99%9F%EF%B8%8F+Monitor+Nacional+de+Ajedrez+(FEDA)" alt="Del dato a la decisión de negocio"/>
 </p>
 
 <p align="center">
@@ -17,7 +17,9 @@
 
 ## 👋 Sobre mí
 
-<img align="right" width="260" src="https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif" alt="Gráfico de dispersión animado"/>
+<p align="center">
+  <img width="220" src="https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif" alt="Gráfico de dispersión animado"/>
+</p>
 
 Perfil analítico que une **datos y negocio**. Tras **7 años en una pyme de 2 M€ de facturación** —KPIs de ventas, márgenes, rentabilidad por cliente y negociación con proveedores— y una etapa en **Deloitte** (SAP CRM e IS-U), he completado el **Bootcamp de Data Science e IA Generativa (490 h)** de BBK Bootcamps powered by The Bridge.
 
@@ -34,7 +36,7 @@ Busco roles **junior de Data Analyst, Data Scientist o Business Analyst** donde 
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,sklearn,docker,flask,aws,git,github,vscode&perline=9" alt="Python, PostgreSQL, scikit-learn, Docker, Flask, AWS, Git, GitHub, VS Code"/>
+  <img src="https://skillicons.dev/icons?i=python,postgres,sklearn,docker,flask,aws,git,github,vscode&perline=5" alt="Python, PostgreSQL, scikit-learn, Docker, Flask, AWS, Git, GitHub, VS Code"/>
 </p>
 
 <p align="center">
@@ -67,7 +69,11 @@ Busco roles **junior de Data Analyst, Data Scientist o Business Analyst** donde 
 
 <p align="center">
   <a href="https://github.com/Eostolozaga/lichess-opening-trainer-pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Eostolozaga&repo=lichess-opening-trainer-pro&bg_color=0d1b2a&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&hide_border=true&border_radius=10&disable_animations=true" alt="Lichess Opening Trainer Pro"/></a>
+</p>
+<p align="center">
   <a href="https://github.com/Eostolozaga/eda-vivienda-valor-refugio-espana"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Eostolozaga&repo=eda-vivienda-valor-refugio-espana&bg_color=0d1b2a&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&hide_border=true&border_radius=10&disable_animations=true" alt="EDA vivienda como valor refugio"/></a>
+</p>
+<p align="center">
   <a href="https://github.com/Eostolozaga/Desafio-de-tripulaciones"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Eostolozaga&repo=Desafio-de-tripulaciones&bg_color=0d1b2a&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&hide_border=true&border_radius=10&disable_animations=true" alt="SustraiApp — Desafío de Tripulaciones"/></a>
 </p>
 
@@ -90,7 +96,7 @@ Busco roles **junior de Data Analyst, Data Scientist o Business Analyst** donde 
 
 ![Español](https://img.shields.io/badge/Espa%C3%B1ol-Nativo-0f2a44?style=flat-square)
 ![Euskera](https://img.shields.io/badge/Euskera-C1%20(EGA)-14b8a6?style=flat-square)
-![English](https://img.shields.io/badge/English-Professional-0A66C2?style=flat-square)
+![English](https://img.shields.io/badge/English-B2%20Professional-0A66C2?style=flat-square)
 
 ---
 
@@ -99,5 +105,5 @@ Busco roles **junior de Data Analyst, Data Scientist o Business Analyst** donde 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f2a44&height=110&section=footer" alt="" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f2a44&height=90&section=footer" alt="" width="100%"/>
 </p>
