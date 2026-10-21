@@ -68,7 +68,13 @@ Busco roles **junior de Data Analyst, Data Scientist o Business Analyst** donde 
 ## 🚀 Proyectos destacados
 
 <p align="center">
-  <a href="https://github.com/Eostolozaga/lichess-opening-trainer-pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Eostolozaga&repo=lichess-opening-trainer-pro&bg_color=0d1b2a&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&hide_border=true&border_radius=10&disable_animations=true" alt="Lichess Opening Trainer Pro"/></a>
+  <p align="center">
+  <a href="https://github.com/Eostolozaga/openingchessai"><img src="https://raw.githubusercontent.com/Eostolozaga/openingchessai/main/docs/capturas.png" alt="OpeningChessAI" width="100%"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Eostolozaga/openingchessai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Eostolozaga&repo=openingchessai&bg_color=0d1b2a&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&hide_border=true&border_radius=10&disable_animations=true" alt="OpeningChessAI"/></a>
+</p>
+<a href="https://github.com/Eostolozaga/lichess-opening-trainer-pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Eostolozaga&repo=lichess-opening-trainer-pro&bg_color=0d1b2a&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&hide_border=true&border_radius=10&disable_animations=true" alt="Lichess Opening Trainer Pro"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/Eostolozaga/eda-vivienda-valor-refugio-espana"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Eostolozaga&repo=eda-vivienda-valor-refugio-espana&bg_color=0d1b2a&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&hide_border=true&border_radius=10&disable_animations=true" alt="EDA vivienda como valor refugio"/></a>
@@ -79,6 +85,7 @@ Busco roles **junior de Data Analyst, Data Scientist o Business Analyst** donde 
 
 | Proyecto | Qué hace | Stack |
 |---|---|---|
+| ♟️ [**OpeningChessAI**](https://github.com/Eostolozaga/openingchessai) · [app](https://app.openingchessai.com) | App en producción con usuarios reales: análisis de rivales (FIDE, Lichess, Chess.com), entrenamiento interactivo, asistente IA por voz y modo a ciegas accesible. | Cloudflare Workers · D1 · R2 · Workers AI (Whisper, Llama 3.1) · JavaScript
 | ♟️ [**Lichess Opening Trainer Pro**](https://github.com/Eostolozaga/lichess-opening-trainer-pro) | Analiza el repertorio de un jugador de Lichess: detecta aperturas fuertes y puntos críticos (Stockfish + clustering KMeans) y recomienda recursos personalizados. | Python · scikit-learn · Streamlit · Lichess API |
 | 🏠 [**La vivienda como valor refugio en España**](https://github.com/Eostolozaga/eda-vivienda-valor-refugio-espana) | EDA: ¿protege la vivienda frente a la inflación? Comparativa con IPC, oro y Euríbor, ratio de esfuerzo y contraste con la crisis de 2008 (datos INE e Idealista). | Python · Pandas · Seaborn · regresión lineal |
 | 🗺️ [**SustraiApp — reto Inetum**](https://github.com/Eostolozaga/Desafio-de-tripulaciones) | Recomendador conversacional de experiencias culturales y gastronómicas de Euskadi; proyecto final multi-equipo del bootcamp. | Python · Flask · PostgreSQL · Ollama |
