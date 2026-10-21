@@ -17,6 +17,8 @@
 
 ## 👋 Sobre mí
 
+<img align="right" width="260" src="https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif" alt="Gráfico de dispersión animado"/>
+
 Perfil analítico que une **datos y negocio**. Tras **7 años en una pyme de 2 M€ de facturación** —KPIs de ventas, márgenes, rentabilidad por cliente y negociación con proveedores— y una etapa en **Deloitte** (SAP CRM e IS-U), he completado el **Bootcamp de Data Science e IA Generativa (490 h)** de BBK Bootcamps powered by The Bridge.
 
 Busco roles **junior de Data Analyst, Data Scientist o Business Analyst** donde conectar el dato con la estrategia.
