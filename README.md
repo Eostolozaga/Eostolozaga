@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=14B8A6&center=true&vCenter=true&width=380&lines=Del+dato+a+la+decisi%C3%B3n+de+negocio;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+ML;Recomendaci%C3%B3n+%2B+LLM+local+(Ollama);%E2%99%9F%EF%B8%8F+Monitor+Nacional+de+Ajedrez+(FEDA)" alt="Del dato a la decisión de negocio"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=14B8A6&center=true&vCenter=true&width=520&lines=From+data+to+business+decisions;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+ML;Recommendations+%2B+local+LLM+(Ollama);%E2%99%9F%EF%B8%8F+National+Chess+Instructor+(FEDA)" alt="From data to business decisions"/>
 </p>
 
 <p align="center">
@@ -15,19 +15,19 @@
 
 ---
 
-## 👋 Sobre mí
+## 👋 About
 
 <p align="center">
-  <img width="220" src="https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif" alt="Gráfico de dispersión animado"/>
+  <img width="220" src="https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif" alt="Animated scatter plot"/>
 </p>
 
-Perfil analítico que une **datos y negocio**. Tras **7 años en una pyme de 2 M€ de facturación** —KPIs de ventas, márgenes, rentabilidad por cliente y negociación con proveedores— y una etapa en **Deloitte** (SAP CRM e IS-U), he completado el **Bootcamp de Data Science e IA Generativa (490 h)** de BBK Bootcamps powered by The Bridge.
+I connect **data and business**. After **seven years at an SME with €2 million in revenue** — sales KPIs, margins, profitability by customer, and supplier negotiations — and a stint at **Deloitte** (SAP CRM and IS-U), I completed the **Data Science and Generative AI Bootcamp (490 hours)** at BBK Bootcamps powered by The Bridge.
 
-Busco roles **junior de Data Analyst, Data Scientist o Business Analyst** donde conectar el dato con la estrategia.
+I am looking for **junior Data Analyst, Data Scientist, or Business Analyst** roles where I can connect data with strategy.
 
-- 📈 Calculé la rentabilidad real por cliente para diseñar rappels por volumen → **+20 % de facturación** (cartera de +200 clientes).
-- 🤖 MVP end-to-end de un **sistema de recomendación** (SVD, Gradient Boosting) con un **chatbot sobre LLM local (Ollama)**, sobre un reto propuesto por **Inetum**.
-- ♟️ Ajedrez federado desde los 9 años y **Monitor Nacional (FEDA)**: leer patrones y decidir con criterio bajo presión.
+- 📈 I calculated true profitability by customer to design volume rebates → **+20% revenue** (a portfolio of 200+ customers).
+- 🤖 End-to-end MVP of a **recommendation system** (SVD, Gradient Boosting) with a **chatbot on a local LLM (Ollama)**, for a challenge proposed by **Inetum**.
+- ♟️ Federation-rated chess player since age 9 and **National Chess Instructor (FEDA)**: reading patterns and deciding with judgment under pressure.
 
 > 🇬🇧 *Junior Data Analyst / Business Analyst with a business background (SME operations, Deloitte) and a 490-hour Data Science & GenAI bootcamp. I turn data into business decisions.*
 
@@ -47,25 +47,25 @@ Busco roles **junior de Data Analyst, Data Scientist o Business Analyst** donde 
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/Matplotlib%20%C2%B7%20Seaborn-11557C?style=flat-square" alt="Matplotlib · Seaborn"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Ollama%20(LLM%20local)-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Ollama%20(local%20LLM)-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama (local LLM)"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square" alt="Excel"/>
   <img src="https://img.shields.io/badge/SAP%20CRM%20%C2%B7%20IS--U-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP CRM · IS-U"/>
   <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo"/>
 </p>
 
-| Área | Herramientas |
+| Area | Tools |
 |---|---|
-| **Análisis** | Python, Pandas, NumPy, SQL, Regex, estadística descriptiva e inferencial |
-| **Machine Learning** | scikit-learn, Gradient Boosting, SVD, sistemas de recomendación, árboles, SVM, KNN, PCA, NLP |
-| **IA Generativa** | Ollama (LLM local), integración de APIs de LLM, chatbots con memoria conversacional |
-| **Visualización** | Power BI, Matplotlib, Seaborn |
-| **Datos** | SQL / NoSQL, APIs, web scraping, JSON, CSV |
-| **Despliegue** | Docker, Flask, AWS (EC2), Git / GitHub, Jupyter, Agile |
-| **Negocio / ERP** | KPIs, márgenes y rentabilidad, SAP CRM, SAP IS-U, Odoo, Vector, Excel, PowerPoint |
+| **Analysis** | Python, Pandas, NumPy, SQL, regex, descriptive and inferential statistics |
+| **Machine Learning** | scikit-learn, Gradient Boosting, SVD, recommendation systems, decision trees, SVM, KNN, PCA, NLP |
+| **Generative AI** | Ollama (local LLM), LLM API integration, chatbots with conversational memory |
+| **Visualization** | Power BI, Matplotlib, Seaborn |
+| **Data** | SQL / NoSQL, APIs, web scraping, JSON, CSV |
+| **Deployment** | Docker, Flask, AWS (EC2), Git / GitHub, Jupyter, Agile |
+| **Business / ERP** | KPIs, margins and profitability, SAP CRM, SAP IS-U, Odoo, Vector, Excel, PowerPoint |
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured projects
 
 <p align="center">
   <a href="https://github.com/Eostolozaga/openingchessai"><img src="https://raw.githubusercontent.com/Eostolozaga/openingchessai/main/docs/capturas.png" alt="OpeningChessAI" width="100%"/></a>
@@ -77,38 +77,38 @@ Busco roles **junior de Data Analyst, Data Scientist o Business Analyst** donde 
   <a href="https://github.com/Eostolozaga/lichess-opening-trainer-pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Eostolozaga&repo=lichess-opening-trainer-pro&bg_color=0d1b2a&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&hide_border=true&border_radius=10&disable_animations=true" alt="Lichess Opening Trainer Pro"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Eostolozaga/eda-vivienda-valor-refugio-espana"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Eostolozaga&repo=eda-vivienda-valor-refugio-espana&bg_color=0d1b2a&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&hide_border=true&border_radius=10&disable_animations=true" alt="EDA vivienda como valor refugio"/></a>
+  <a href="https://github.com/Eostolozaga/eda-vivienda-valor-refugio-espana"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Eostolozaga&repo=eda-vivienda-valor-refugio-espana&bg_color=0d1b2a&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&hide_border=true&border_radius=10&disable_animations=true" alt="EDA: housing as a safe-haven asset"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Eostolozaga/Desafio-de-tripulaciones"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Eostolozaga&repo=Desafio-de-tripulaciones&bg_color=0d1b2a&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&hide_border=true&border_radius=10&disable_animations=true" alt="SustraiApp — Desafío de Tripulaciones"/></a>
+  <a href="https://github.com/Eostolozaga/Desafio-de-tripulaciones"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Eostolozaga&repo=Desafio-de-tripulaciones&bg_color=0d1b2a&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&hide_border=true&border_radius=10&disable_animations=true" alt="SustraiApp — Team Challenge"/></a>
 </p>
 
-| Proyecto | Qué hace | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| ♟️ [**OpeningChessAI**](https://github.com/Eostolozaga/openingchessai) · [app](https://app.openingchessai.com) | App en producción con usuarios reales: análisis de rivales (FIDE, Lichess, Chess.com), entrenamiento interactivo, asistente IA por voz y modo a ciegas accesible. | Cloudflare Workers · D1 · R2 · Workers AI (Whisper, Llama 3.1) · JavaScript |
-| ♟️ [**Lichess Opening Trainer Pro**](https://github.com/Eostolozaga/lichess-opening-trainer-pro) | Analiza el repertorio de un jugador de Lichess: detecta aperturas fuertes y puntos críticos (Stockfish + clustering KMeans) y recomienda recursos personalizados. | Python · scikit-learn · Streamlit · Lichess API |
-| 🏠 [**La vivienda como valor refugio en España**](https://github.com/Eostolozaga/eda-vivienda-valor-refugio-espana) | EDA: ¿protege la vivienda frente a la inflación? Comparativa con IPC, oro y Euríbor, ratio de esfuerzo y contraste con la crisis de 2008 (datos INE e Idealista). | Python · Pandas · Seaborn · regresión lineal |
-| 🗺️ [**SustraiApp — reto Inetum**](https://github.com/Eostolozaga/Desafio-de-tripulaciones) | Recomendador conversacional de experiencias culturales y gastronómicas de Euskadi; proyecto final multi-equipo del bootcamp. | Python · Flask · PostgreSQL · Ollama |
+| ♟️ [**OpeningChessAI**](https://github.com/Eostolozaga/openingchessai) · [app](https://app.openingchessai.com) | Production app with real users: opponent analysis (FIDE, Lichess, Chess.com), interactive training, a voice AI assistant, and an accessible blindfold mode. | Cloudflare Workers · D1 · R2 · Workers AI (Whisper, Llama 3.1) · JavaScript |
+| ♟️ [**Lichess Opening Trainer Pro**](https://github.com/Eostolozaga/lichess-opening-trainer-pro) | Analyzes a Lichess player's repertoire: detects strong openings and critical points (Stockfish + K-means clustering) and recommends personalized resources. | Python · scikit-learn · Streamlit · Lichess API |
+| 🏠 [**Housing as a safe-haven asset in Spain**](https://github.com/Eostolozaga/eda-vivienda-valor-refugio-espana) | EDA: does housing protect against inflation? Compared with CPI, gold, and Euribor, plus the affordability ratio and a contrast with the 2008 crisis (INE and Idealista data). | Python · Pandas · Seaborn · linear regression |
+| 🗺️ [**SustraiApp — Inetum challenge**](https://github.com/Eostolozaga/Desafio-de-tripulaciones) | Conversational recommender for cultural and culinary experiences in the Basque Country; the bootcamp's multi-team final project. | Python · Flask · PostgreSQL · Ollama |
 
 ---
 
-## 🎓 Formación y certificaciones
+## 🎓 Education and certifications
 
-- **Bootcamp Data Science e IA Generativa (490 h)** — BBK Bootcamps powered by The Bridge · 2026
+- **Data Science and Generative AI Bootcamp (490 hours)** — BBK Bootcamps powered by The Bridge · 2026
 - **Big Data Professional (BDPC)** — Certiprof · 2026
-- **FP Grado Superior en Administración y Finanzas** — I.E.S. Kantauri · 2013–2015
-- **Monitor Nacional de Ajedrez** — Federación Española de Ajedrez (FEDA) · 2012
+- **Higher-Level Vocational Training in Administration and Finance** — I.E.S. Kantauri · 2013–2015
+- **National Chess Instructor** — Spanish Chess Federation (FEDA) · 2012
 
-## 🌍 Idiomas
+## 🌍 Languages
 
-![Español](https://img.shields.io/badge/Espa%C3%B1ol-Nativo-0f2a44?style=flat-square)
-![Euskera](https://img.shields.io/badge/Euskera-C1%20(EGA)-14b8a6?style=flat-square)
+![Spanish](https://img.shields.io/badge/Spanish-Native-0f2a44?style=flat-square)
+![Basque](https://img.shields.io/badge/Basque-C1%20(EGA)-14b8a6?style=flat-square)
 ![English](https://img.shields.io/badge/English-B2%20Professional-0A66C2?style=flat-square)
 
 ---
 
 <p align="center">
-  <b>¿Hablamos?</b> · <a href="https://www.linkedin.com/in/eneko-ostolozaga-data-science/">LinkedIn</a>
+  <b>Let's talk</b> · <a href="https://www.linkedin.com/in/eneko-ostolozaga-data-science/">LinkedIn</a>
 </p>
 
 <p align="center">
