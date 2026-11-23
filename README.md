@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/eneko_foto_perfil.jpg" alt="Eneko Ostolozaga" width="180" style="border-radius:50%"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=14B8A6&center=true&vCenter=true&width=520&lines=From+data+to+business+decisions;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+ML;Recommendations+%2B+local+LLM+(Ollama);%E2%99%9F%EF%B8%8F+National+Chess+Instructor+(FEDA)" alt="From data to business decisions"/>
 </p>
 
