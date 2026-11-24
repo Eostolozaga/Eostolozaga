@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2a44,100:14b8a6&height=160&section=header&text=Eneko%20Ostolozaga&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20Jr.%20%C2%B7%20Business%20Analyst%20%C2%B7%20Data%20Science&descSize=14&descAlignY=60" alt="Eneko Ostolozaga — Data Analyst Jr. · Business Analyst" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2a44,100:14b8a6&height=160&section=header&text=Eneko%20Ostolozaga&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Junior%20AI%20Business%20Partner%20%40%20%C3%93ptima%20Grupo%20%C2%B7%20Data%20Analyst%20%C2%B7%20Data%20Science&descSize=14&descAlignY=60" alt="Eneko Ostolozaga — Data Analyst Jr. · Business Analyst" width="100%"/>
 </p>
 
 <p align="center">
